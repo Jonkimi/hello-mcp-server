@@ -1,6 +1,6 @@
 # Hello, MCP Server
 
-## Development
+## How to run
 
 ```
 uvicorn server:app --reload --timeout-graceful-shutdown 0
